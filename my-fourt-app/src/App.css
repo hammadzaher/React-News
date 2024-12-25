@@ -1,0 +1,35 @@
+body {
+  background: linear-gradient(to right, #159957, #155799);
+}
+.one {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.one .one1 label {
+  font-size: 25px;
+  font-weight: 700;
+}
+.one .one1 label select {
+  border: none;
+  outline: none;
+  margin-left: 15px;
+
+}
+.one .one2 label {
+  font-size: 25px;
+  font-weight: 700;
+}
+.one .one2 label select {
+  border: none;
+  outline: none;
+  margin-left: 15px;
+}
+
+
+.two {
+  width: 100%;
+}
